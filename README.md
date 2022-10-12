@@ -9,6 +9,10 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Built with](#built-with)
 - [Author](#author)
 
+### Links:
+
+Live site URL: https://dominiak92.github.io/interactive-rating-component-main/
+
 ### The challenge
 
 Users should be able to:
